@@ -15,4 +15,4 @@ Multi-stage image:
 16.7 MB
 
 Image size reduced by ~98.7%.
-<img width="1842" height="587" alt="Terminal" src="https://github.com/user-attachments/assets/325e6a06-e150-4709-90d8-c02d1e123f81" />
+<img width="1241" height="211" alt="Screenshot 2026-07-30 121255" src="https://github.com/user-attachments/assets/acef7c18-e1b9-4c0b-a90d-75d7f40cd5a9" />
